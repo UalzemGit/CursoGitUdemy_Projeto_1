@@ -1,0 +1,3 @@
+document.createTextNode();
+
+("lorem ipsun");
